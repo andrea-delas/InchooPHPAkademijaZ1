@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+ul {
+    margin-bottom: 5px;
+}
+
+ul li {
+    margin-bottom: 5px;
+    font-style: italic;
+}
