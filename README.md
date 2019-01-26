@@ -12,16 +12,3 @@ Na stranicama prikazati korištenja najmanje 20 različitih operatora na smislen
 
 Svaki RWD staviti u vlastiti direktorij. Koristiti relativne putanje za povezivanje stranica.
 
-
-Primjer zadataka:
-Kreirati stranicu koja za primljeni GET parametar boja stranicu u odnosu na vrijednost parametra.
-Kreirati stranicu koja za primljeni GET parametar toj stranici daje primljenu vrijednost u naslov.
-Za primljena dva parametra ispisati vrijednosti u dvije H1 osnake
-Za primljena 3 parametara ispisati njhov zbroj uz prikaz cijelog izraza. Npr: 5+2+2=9
-Za primljena četiri parametara ispiši vrijednosti u nenumeriranoj listi
-Za primljena 4 broja prikazati broj koristeći potpisivanja brojeva jednog ispod drugog. Primjer:
-   34
-  256
-+6333
------
-6623
